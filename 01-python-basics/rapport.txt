@@ -1,0 +1,10 @@
+=== RAPPORT D'ANALYSE ===
+
+Moyenne      : 13230.00
+Médiane      : 5750.00
+Minimum      : 500.00
+Maximum      : 150000.00
+Écart-type   : 32448.41
+
+Valeurs aberrantes détectées (1) :
+  - 150000.00
