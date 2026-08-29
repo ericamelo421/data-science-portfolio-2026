@@ -19,4 +19,4 @@ Mon parcours d'apprentissage en Data Science, documenté semaine par semaine —
 ## À propos
  un apprentissage structuré sur 12 semaines : Python, Pandas/NumPy, SQL, statistiques, Machine Learning, Deep Learning et NLP.
 
-Je documente ma progression chaque semaine sur [LinkedIn](https://www.linkedin.com/in/ericamelo421).
+Je documente ma progression chaque semaine sur [LinkedIn](https://www.linkedin.com/in/erica-melo-704a58344).
